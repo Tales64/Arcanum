@@ -1,2 +1,1 @@
-# Arcanum
-Group Project #3
+We will update our README as we work through our project.
