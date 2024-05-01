@@ -5,6 +5,7 @@ const authRoutes = require('./routes/userRoutes');
 const gameRoutes = require('./routes/gameRoutes');
 const { createServer } = require('http');
 const { Server } = require('socket.io');
+require('dotenv').config();
 
 const app = express();
 
